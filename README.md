@@ -3,13 +3,11 @@ eqm-ar
 
 Equalisation Maximisation (EqM) and Expectation Maximisation (EM) for AR(p) processes
 
-This code was downloaded from < https://github.com/compops/eqm-ar/ > or from < http://www.rt.isy.liu.se/~johda87/code.html > and contains the code used to produce the results in the poster presentation
+This code was downloaded from < https://github.com/compops/eqm-ar/ > or from < http://liu.johandahlin.com/ > and contains the code used to produce the results in the poster presentation
 
-*J. Dahlin, F. Lindsten and T. B. Schön, 
-Parameter inference in AR processes with missing data
-ERNSI Workshop, Maastricht, NL, 2012.*
+*J. Dahlin, F. Lindsten and T. B. Schön, Parameter inference in AR processes with missing data ERNSI Workshop, Maastricht, NL, 2012.*
 
-which is available as from < http://www.rt.isy.liu.se/~johda87/presentations.html >.
+which is available as from < http://liu.johandahlin.com/ >.
 
 Included files
 --------------
